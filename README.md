@@ -1,2 +1,2 @@
 SCSS 
-link to preview : //
+link to preview : https://prusichka.github.io/task4/
